@@ -28,7 +28,7 @@ GitHub は Git のリモートリポジトリの 1 つで, 世界中の人が自
 
 #### Access Token の作成
 [個人用アクセス トークンを管理する](https://docs.github.com/ja/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens) を参考にアクセストークンを設定する.  
-トークンは生成時にしかコピーすることができないため, 自分がわかるようにローカルに保存しておきましょう.
+__トークンは生成時にしかコピーすることができない__ ため, ローカルに忘れずに保存しておきましょう.
 
 
 #### git の初期設定
