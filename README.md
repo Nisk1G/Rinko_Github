@@ -61,6 +61,7 @@ __2. リポジトリのクローン__
 ```
 git clone <コピペしたURL>
 ```
+clone の際に `username` と `passward` が求められた場合には, `username` は Github のユーザー名, `passward` は保存してあるはずのトークンをコピペしてください.
   
 __3. ローカルレポジトリの編集(Markdown の書き方練習)__  
 クローンしたローカルレポジトリ内に新しく `rinkou` というフォルダを作成し、その中に　`rinkou.md` というファイルを作成する. 適当なエディタを開いて `rinkou.md` を開いて編集する. 今回は Markdown の練習のため, [Markdown記法 チートシート](https://qiita.com/Qiita/items/c686397e4a0f4f11683d) を参考にして, [このように](https://github.com/Nisk1G/Rinko_Github/blob/master/MarkdownPractice.md) 編集してみてください.
